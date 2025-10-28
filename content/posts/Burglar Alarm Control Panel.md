@@ -160,4 +160,4 @@ keywords: ["防犯アラームコントロールパネル", "侵入アラーム�
 
 AS-9000 シリーズは、**工業用グレードの信頼性**、スマート接続性、堅牢な設計を提供します。スケーラブルで知能的な **侵入者アラームパネル** を求める購入者にとって、保護、効率、安心感を向上させます。
 
-**次のステップ**: [Athenalarm AS-9000 series burglar alarm control panel](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel/) を訪問するか、カスタマイズされた推奨のためにチャットを開始してください。
+**次のステップ**: [Athenalarm AS-9000 シリーズ防犯アラームコントロールパネル](https://athenalarm.com/burglar-alarm/intrusion-alarm-panel/alarm-control-panel/) を訪問するか、カスタマイズされた推奨のためにチャットを開始してください。
